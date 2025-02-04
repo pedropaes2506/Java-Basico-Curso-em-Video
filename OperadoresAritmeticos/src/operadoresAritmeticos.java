@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class operadoresAritmeticos {
     public static void main(String[] args) throws Exception {
         Scanner scan = new Scanner(System.in);
         int num = 0;

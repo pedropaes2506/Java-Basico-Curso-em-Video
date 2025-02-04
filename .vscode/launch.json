@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "programaPernas",
+            "request": "launch",
+            "mainClass": "programaPernas",
+            "projectName": "Java-Basico-Curso-em-Video_8358538c"
+        },
+        {
+            "type": "java",
+            "name": "idadeVoto",
+            "request": "launch",
+            "mainClass": "idadeVoto",
+            "projectName": "Java-Basico-Curso-em-Video_8358538c"
+        },
+        {
+            "type": "java",
+            "name": "equacaoSegundoGrau",
+            "request": "launch",
+            "mainClass": "equacaoSegundoGrau",
+            "projectName": "Java-Basico-Curso-em-Video_8358538c"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "main",
