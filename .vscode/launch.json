@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "repeticaoContador",
+            "request": "launch",
+            "mainClass": "repeticaoContador",
+            "projectName": "Java-Basico-Curso-em-Video_8358538c"
+        },
+        {
+            "type": "java",
+            "name": "repeticaoValores",
+            "request": "launch",
+            "mainClass": "repeticaoValores",
+            "projectName": "Java-Basico-Curso-em-Video_8358538c"
+        },
+        {
+            "type": "java",
+            "name": "calculoFatorial",
+            "request": "launch",
+            "mainClass": "calculoFatorial",
+            "projectName": "Java-Basico-Curso-em-Video_8358538c"
+        },
+        {
+            "type": "java",
             "name": "programaPernas",
             "request": "launch",
             "mainClass": "programaPernas",
