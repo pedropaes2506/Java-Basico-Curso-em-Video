@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "vetoresOrdem",
+            "request": "launch",
+            "mainClass": "vetoresOrdem",
+            "projectName": "Java-Basico-Curso-em-Video_8358538c"
+        },
+        {
+            "type": "java",
             "name": "repeticaoContador",
             "request": "launch",
             "mainClass": "repeticaoContador",
